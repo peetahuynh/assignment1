@@ -1,0 +1,4 @@
+﻿  XBoxController.cpp
+d:\assignment\assignment1\assignment1\assignment1\xboxcontroller.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\assignment\assignment1\assignment1\assignment1\xboxcontroller.cpp(237): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  assignment1.vcxproj -> D:\assignment\assignment1\assignment1\Debug\assignment1.exe
